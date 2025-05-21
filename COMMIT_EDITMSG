@@ -1,0 +1,7 @@
+Enable AI-powered essay grading to provide students with instant feedback
+
+Adds a new essay grading feature using Streamlit and OpenAI for AI-based assessments in `app.py` and creates `pages/essay_assessment.py`.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: fed3fb3f-521c-4644-888c-2e7eed2009f4
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/4a4de8de-a7cc-42ea-b849-c108d0d82090/3506e28b-d027-44cf-b22b-1531ebc0a212.jpg
