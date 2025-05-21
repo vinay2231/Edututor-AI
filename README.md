@@ -1,1 +1,1 @@
-# Edututor-AI
+#EduTutor AI – Personalized Learning and Assessment System
