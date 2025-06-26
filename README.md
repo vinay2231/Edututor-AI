@@ -30,7 +30,7 @@ Tech Stack: Python, OpenAI, OAuth, MongoDB.
 
 Developed An AI-powered Email Assistant uses machine learning, NLP, and speech recognition to streamline inbox management. It automates tasks like replying, sorting, summarizing, spam filtering, and translating emails making communication faster and more efficient.
 
-**EduTutor AI â€“ Personalized Learning and Assessment System**
+**EduTutor AI “ Personalized Learning and Assessment System**
 
 Tech Stack: Python, Streamlit, Generative AI,NLP, ML
 
@@ -42,12 +42,11 @@ This keeps learners engaged and supports deeper understanding through tailored l
 
 Completed Virtual Web Developer Internship @ EduSkills (Oct 2024 â€“  Dec 2024)
 
+https://www.credly.com/badges/f7be042f-c82e-4e3a-83ed-1605c2239f8b/public_url
+
 Focused on frontend and backend projects, applying HTML, CSS, JavaScript, and React in real-world tasks.
 
 ## Aspirations
 
 I aspire to become a Full-Stack AI Engineerâ€”someone who not only builds robust, scalable web applications but also integrates intelligent AI/ML features to solve modern problems efficiently. I'm also deeply interested in transitioning into Cloud Engineering roles where I can deploy and scale applications globally using cloud-native tools.
 
-
-EduTutor AI – Personalized Learning and Assessment System
-https://www.credly.com/badges/f7be042f-c82e-4e3a-83ed-1605c2239f8b/public_url
